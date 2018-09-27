@@ -1,0 +1,9 @@
+var answer = pickrnadom([
+`heads`,
+`tails`, ]);
+print(answer);
+if (answer === `heads`) {
+drawboxes(`gwg ggg gwg`);}
+print(answer);
+if (answer === `tails`) {
+drawboxes(`rrr wrw wrw`); }
